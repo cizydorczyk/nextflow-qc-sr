@@ -1,5 +1,5 @@
 # nextflow-qc-sr
-Nextflow QC pipeline for short reads!
+Nextflow QC pipeline for **BACTERIAL** short reads!
 
 Runs:
     Trimmomatic
